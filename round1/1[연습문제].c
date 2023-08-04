@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-    int y, x, atk_range;
-    int atk_size, map_size;
+    int map_size, y, x;
+    int atk_size, atk_range;
     int mogi_catch, mogi_max=0;
     
     scanf("%d", &map_size);
